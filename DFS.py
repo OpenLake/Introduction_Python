@@ -24,15 +24,16 @@ class Graph:
 		self.DFSUtil(u, visited) 
 
 # Driver code 
-g = Graph() 
-g.addEdge(0, 1) 
-g.addEdge(1, 2) 
-g.addEdge(3, 2) 
-g.addEdge(2, 0) 
-g.addEdge(0, 3) 
-g.addEdge(3, 1)
-g.addEdge(4, 2)
+if __name__ == '__main__':
+	g = Graph() 
+	g.addEdge(0, 1) 
+	g.addEdge(1, 2) 
+	g.addEdge(3, 2) 
+	g.addEdge(2, 0) 
+	g.addEdge(0, 3) 
+	g.addEdge(3, 1)
+	g.addEdge(4, 2)
 
-print("DFS for the given graph starting from vertex 0 is :") 
-g.DFS(0) 
+	print("DFS for the given graph starting from vertex 0 is :") 
+	g.DFS(0) 
 
