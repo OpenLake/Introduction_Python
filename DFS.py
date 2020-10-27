@@ -21,7 +21,7 @@ class Graph:
 	def DFS(self, v): 
 
 		visited = [True] * (max(self.graph)+1) 
-		self.DFSUtil(u, visited) 
+		self.DFSUtil(v, visited) 
 
 # Driver code 
 if __name__ == '__main__':
