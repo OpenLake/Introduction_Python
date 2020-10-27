@@ -7,8 +7,8 @@ def insertionSort(arr):
     while j >= 0 and key < arr[j]:
         arr[j + 1] = arr[j]
         j -= 1
-    arr[j - 1] = key
-    return 
+    arr[j + 1] = key
+    return
 
 print("Array before sorting :", A)
 A = insertionSort(A)
