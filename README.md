@@ -9,7 +9,7 @@ The type of pull request will be mentioned by the reviewers.
 
 ### Tyep 1:
 
-Contain any contructive change to the repo including any single character changes.
+Contain any constructive change to the repo including any single character changes.
 
 ### Type 2:
 
