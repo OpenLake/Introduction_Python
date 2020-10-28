@@ -25,4 +25,4 @@ Full implementations of incomplete functions or improvement in the compilation c
 
 ### Good Luck and Have Fun
 
-Also don't be disappointed if you recieve some strict code reviews. ;-)
+Also don't be disappointed if you receive some strict code reviews. ;-)
