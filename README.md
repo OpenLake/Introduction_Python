@@ -14,7 +14,7 @@ For this type, first file an issue describing your idea. If your idea is good, m
 
 ### Tyep 1:
 
-Contain any contructive change to the repo including any single character changes.
+Contain any constructive change to the repo including any single character changes.
 
 ### Type 2:
 
