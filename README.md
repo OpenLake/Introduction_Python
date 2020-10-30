@@ -32,4 +32,4 @@ Contain at least some changes to code. Including optimizations.
 
 ### Good Luck and Have Fun  😇
 
-Also don't be disappointed if you recieve some strict code reviews. ;-)
+Also don't be disappointed if you receive some strict code reviews. ;-)
