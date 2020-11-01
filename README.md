@@ -7,9 +7,14 @@ You must put your name and roll number as comment in the pull request to make su
 There are 4 types of pull requests anyone contributing to the code should submit.
 The type of pull request will be mentioned by the reviewers.
 
+
+### Type 0 : SCRIPT
+A python script to automate something. It's better if you or other students can use it frequently.
+For this type, first file an issue describing your idea. If your idea is good, mentors will guide you in implementing it and you can move towards the coding phase. 
+
 ### Tyep 1:
 
-Contain any contructive change to the repo including any single character changes.
+Contain any constructive change to the repo including any single character changes.
 
 ### Type 2:
 
@@ -21,8 +26,10 @@ Contain at least some changes to code. Including optimizations.
 
 ### Type 4
 
-Full implementations of incomplete functions or improvement in the compilation command.
+1. Full implementations of incomplete functions or improvement in the compilation command.
 
-### Good Luck and Have Fun
+### Note : You can make only 1 PR for each type(Except for type 0 - SCRIPT). Total number of accepted PRs should be >= 4.
 
-Also don't be disappointed if you recieve some strict code reviews. ;-)
+### Good Luck and Have Fun  😇
+
+Also don't be disappointed if you receive some strict code reviews. ;-)

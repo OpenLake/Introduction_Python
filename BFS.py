@@ -7,18 +7,19 @@ def bfs(graph, i):
     while queue:
         
         node = queue.pop(0)
-        if node in visited:
+        if node not in visited:
             
             visited.append(node)
             neighbours = graph[node]
  
             
-            for neighbour not in neighbours:
-                queue.append(neighbour)
+            for neighbour in neighbours:
+                if neighbour not in visited:
+                    queue.append(neighbour)
     return visited
 
 if __name__ == '__main__':
-graph = {'A': ['B', 'C', 'E'],
+    graph = {'A': ['B', 'C', 'E'],
          'B': ['A','D', 'E', 'C'],
          'C': ['A', 'F', 'B', 'G'],
          'D': ['B'],
